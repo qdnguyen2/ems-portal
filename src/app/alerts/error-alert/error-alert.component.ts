@@ -8,7 +8,7 @@ import { OnInit, Component } from '@angular/core';
         p {
             color: red;
             padding: 20px;
-            background-color: yellow;
+            background-color: yellow; 
         }
     `]
 })
